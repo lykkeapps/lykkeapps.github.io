@@ -1,2 +1,2 @@
-# lykkeapps.github.io
+# lykkeapps
 lykkeapps.com
