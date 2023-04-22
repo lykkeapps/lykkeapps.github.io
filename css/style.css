@@ -300,9 +300,9 @@ a:hover {
 }
 .banner-text {
 	float: left;
-	width: 100%;
+	/* width: 100%; */
 	padding-top: 298px;
-	padding-left: 50px;
+	/* padding-left: 50px; */
 }
 .banner-text h3 {
 	font-size: 24px;
@@ -315,25 +315,29 @@ a:hover {
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 35px;
+	background: #7260c8;
+	padding: 10px;
+	border-radius: 10px;
 }
+
 .banner-text p {
 	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 70px;
 }
 .banner-text > a {
-	font-size: 24px;
+	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 1px;
 	line-height: 70px;
-	padding: 0 100px;
+	padding: 0 20px;
 	border:2px solid;
 	text-transform: uppercase;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	-ms-border-radius: 20px;
 	-o-border-radius: 20px;
-	border-radius: 20px;
+	border-radius: 10px;
 	display: inline-block;
 }
 .banner-imgs {
